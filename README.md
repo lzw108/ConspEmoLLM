@@ -4,7 +4,7 @@
 
 ## News
 
-📢 *Mar. 29, 2024* We release the ConspEmoLLM and ConspLLM models!
+📢 *Mar. 29, 2024* We release the ConspEmoLLM and ConspLLM models and the codes!
 
 ## Models
 
@@ -44,6 +44,14 @@ bash src/run_sft.sh
 ## License
 
 The ConspEmoLLM and ConspLLM are licensed under [MIT]. Please find more details in the [MIT](LICENSE) file.
+
+## Data
+
+### Raw data
+
+Raw [COCO data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10071453/)
+
+Raw [LOCOAnnotations](https://github.com/zytian9/locoAnnotations)
 
 ## Citation
 
