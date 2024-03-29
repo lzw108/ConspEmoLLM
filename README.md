@@ -55,7 +55,7 @@ Raw [LOCOAnnotations](https://github.com/zytian9/locoAnnotations)
 
 ## Citation
 
-If you use the series of EmoLLMs in your work, please cite our paper:
+If you use the series of ConspEmoLLM in your work, please cite our paper:
 
 ```
 @article{liu2024conspemollm,
