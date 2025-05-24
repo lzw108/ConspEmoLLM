@@ -2,12 +2,17 @@
 
 [The ConspEmoLLM Paper](https://arxiv.org/abs/2403.06765)
 
+[ConspEmoLLM-v2 paper](https://arxiv.org/abs/2403.06765)
+
 ## News
+
+📢 *May. 20, 2025* We update ConspEmoLLM to ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories. [paper](https://arxiv.org/abs/2403.06765)
 
 📢 *Mar. 29, 2024* We release the ConspEmoLLM and ConspLLM models and the codes!
 
 ## Models
 
+- [ConspEmoLLM-v2](https://huggingface.co/lzw1008/ConspEmoLLM-v2)
 - [ConspEmoLLM-7b](https://huggingface.co/lzw1008/ConspEmoLLM-7b) 
 - [ConspLLM-7b](https://huggingface.co/lzw1008/ConspLLM-7b) 
 
