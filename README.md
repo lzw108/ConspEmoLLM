@@ -60,14 +60,22 @@ Raw [LOCOAnnotations](https://github.com/zytian9/locoAnnotations)
 
 ## Citation
 
-If you use the series of ConspEmoLLM in your work, please cite our paper:
+If you use the series of ConspEmoLLM in your work, please cite our papers:
 
 ```
 @article{liu2024conspemollm,
   title={ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model},
-  author={Liu, Zhiwei and Liu, Boyang and Thompson, Paul and Yang, Kailai and Jain, Raghav and Ananiadou, Sophia},
+  author={Liu, Zhiwei and Liu, Boyang and Thompson, Paul and Yang, Kailai and Ananiadou, Sophia},
   journal={arXiv preprint arXiv:2403.06765},
   year={2024}
 }
+
+@article{liu2025conspemollmv2,
+  title={ConspEmoLLM-v2: A robust and stable model to detect sentiment-transformed conspiracy theories},
+  author={Liu, Zhiwei and Thompson, Paul and Rong, Jiaqi and Ananiadou, Sophia},
+  journal={arXiv preprint arXiv:2505.14917},
+  year={2025}
+}
+
 ```
 
